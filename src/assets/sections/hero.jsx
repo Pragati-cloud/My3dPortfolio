@@ -6,6 +6,7 @@ import {useGSAP} from '@gsap/react'
 import { gsap } from 'gsap'
 import AminatedCounter from '../component/AminatedCounter.jsx'
 import TitleHeader from '../component/TitleHeader.jsx'
+import Button1 from '../component/downloadbtn.jsx'
 
 
 export const hero = () => {
@@ -46,6 +47,7 @@ export const hero = () => {
           Hey, I'm Pragati, a developer based in India with a passion for code.
           </p>
           <Button className='md:w-80 md:h-16 w-60 h-12' id='button' text='See my Work'></Button>
+          <Button1 className='md:w-80 md:h-16 w-60 h-12' id='button' text='Download Resume'></Button1>
         </div>
       
       </header>

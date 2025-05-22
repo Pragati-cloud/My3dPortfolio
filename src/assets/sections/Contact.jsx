@@ -25,12 +25,10 @@ const Contact = () => {
 
     try {
       await emailjs.sendForm(
-        import.meta.env.EMAILJS_SERVICE_ID,
-        import.meta.env.EMAILJS_TEMPLATE_ID,
-        
-        formRef.current,
-        import.meta.env.EMAILJS_PUBLICKEY,
-        
+           import.meta.env.VITE_EMAILJS_SERVICE_ID,
+   import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
+   formRef.current,
+   import.meta.env.VITE_EMAILJS_PUBLIC_KEY
       );
 
       // Reset form and stop loading

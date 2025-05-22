@@ -57,7 +57,7 @@ export const expoCard=[
   
  
   {
-    review:'🌟 1. Volunteer in HackAithon organized by Microsoft  2.Selected for #Include<Her> 4.0 Program organized by Microsoft Azure',
+    review:'🌟 1. Volunteer in HackAithon organized by Microsoft 🌟 2.Selected for #Include<Her> 4.0 Program organized by Microsoft Azure',
     imgPath:'/images/exp2.png',
     logoPath:'/images/logo2.png',
     title:'Frontend Developer',
@@ -75,7 +75,7 @@ export const expoCard=[
 
   },
   {
-    review:'🌟 Selected in Google Girls Hackathon 2025  ',
+    review:'🌟 Selected in Google Girls Hackathon 2025 🌟  2. Finalist Team of Brahmax 1.0 (Top 4)',
     imgPath:'/images/exp1.png',
     logoPath:'/images/logo3.png',
     title:'Data Science',
