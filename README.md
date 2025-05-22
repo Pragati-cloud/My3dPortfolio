@@ -29,4 +29,4 @@ EmailJS (for contact form)
 
 📸 Preview
 
-🔗 Live Demo
+🔗 Live Demo - https://my3d-portfolio-z5kw.vercel.app/
